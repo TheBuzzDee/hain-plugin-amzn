@@ -1,6 +1,7 @@
 # hain-plugin-amzn
 [Hain](https://github.com/appetizermonster/hain) plugin to search amazon.com
 
+![screenshot](screenshot.png)
 
 ## Install
 
