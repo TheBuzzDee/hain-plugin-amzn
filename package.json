@@ -1,0 +1,22 @@
+{
+  "name": "hain-plugin-amzn",
+  "version": "0.0.1",
+  "description": "Hain plugin to search on amazon.com",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBuzzDee/hain-plugin-amzn.git"
+  },
+  "keywords": [
+    "hain0"
+  ],
+  "author": "TheBuzzDee",
+  "license": "MIT",
+  "homepage": "https://github.com/TheBuzzDee/hain-plugin-amzn.git",
+  "hain": {
+    "prefix": "/amzn ",
+    "usage": "/amzn - search on amazon.com",
+    "icon": "#fa fa-shopping-cart",
+    "redirect": "/amzn "
+  }
+}
