@@ -17,5 +17,11 @@ Type /amzn yoursearch:
 /amzn yoursearch
 ```
 
+## More Hain-Plugins
+
+* [hain-plugin-buzzpics](https://github.com/TheBuzzDee/hain-plugin-buzzpics) 
+* [hain-plugin-amzn](https://github.com/TheBuzzDee/hain-plugin-amzn/) 
+
+
 
 
